@@ -5,7 +5,7 @@
    |---|---|---|
    |[Ítalo](https://github.com/italoguil)|Desenvolvedor, analista|Programador back-end do sistema|
    |[Relyson](https://github.com/RelysonM)|Desenvolvedor, analista|Programador front-end do sistema|
-   |Vinícios|Diretor de Marketing|Responsavel pela divulgação e criação de campanha|
+   |[Vinícios](https://github.com/Vinicius2023)|Diretor de Marketing|Responsavel pela divulgação e criação de campanha|
 
 # Objetivo do projeto
 
